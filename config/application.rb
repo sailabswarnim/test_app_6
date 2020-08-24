@@ -16,7 +16,6 @@ module TestApp
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
 
-    def hello 
-    end
+    
   end
 end
